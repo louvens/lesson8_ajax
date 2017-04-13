@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 13, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Louvens Merilien)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+( For this project an API, Ajax, and JSON-formatted
+Data were used to build an application.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://louvens.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (To a create better, faster, and more interactive web application I can use AJAX to load data from the server without a browser page refresh. )
+2. (To transmit data between a server and web applications  I can use JSON  for human readable data interchange.)
+3. (JSON and AJAX allow my website to grab information from other sources.(API's))
